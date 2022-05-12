@@ -1,0 +1,8 @@
+============================= test session starts ==============================
+platform linux2 -- Python 2.7.18, pytest-4.6.9, py-1.8.1, pluggy-0.13.0
+rootdir: /home/sqared2/Fibersafe/Fiber/TestCase
+collected 0 items
+
+========================= no tests ran in 0.00 seconds =========================
+ERROR: file not found: pytest
+

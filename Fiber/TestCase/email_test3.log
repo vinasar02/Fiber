@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/home/sqared2/Fibersafe/Fiber/TestCase/email_test.py", line 33, in <module>
+    with open(attach_file_name, 'rb') as attachment:
+IOError: [Errno 2] No such file or directory: 'report1.html'
